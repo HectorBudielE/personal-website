@@ -1,8 +1,10 @@
-# Jekyll Resume Theme
+# Personal Website
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+Personal Website using Jekyll and deployed on Netlify.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
+Based on the [Jekyll template](https://github.com/murraco/jekyll-theme-minimal-resume) by Mauricio Urraco.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/650c992d-bdfd-43be-9ba2-e735d2518ac8/deploy-status)](https://app.netlify.com/sites/hectorbudiele/deploys)
 
 # Stack
 
@@ -61,7 +63,7 @@ email: mauriurraco@gmail.com
 - Particle Customization
   - Edit the json data in particle function in `app.js`
   - Refer to `Particle.js` for help
-  
+
 # Content
 
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
