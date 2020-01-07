@@ -13,7 +13,7 @@ layout: page
 | | | | | | |
 |Architecting with Google Compute Engine Specialization| |[Coursera](https://www.coursera.org/specializations/gcp-architecture)| |Google Cloud Training|[Link](https://www.coursera.org/account/accomplishments/specialization/certificate/ZJGP26DBWYS5)|
 | | | | | | |
-|Google Cloud Platform Fundamentals: Core Infrastructure<sup>1</sup>| |[Coursera](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture)| | |Google Cloud Training|[Link](https://www.coursera.org/account/accomplishments/certificate/2MN84HJ2NJGT)|
+|Google Cloud Platform Fundamentals: Core Infrastructure<sup>1</sup>| |[Coursera](https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-architecture)| |Google Cloud Training|[Link](https://www.coursera.org/account/accomplishments/certificate/2MN84HJ2NJGT)|
 | | | | | | |
 |Essential Cloud Infrastructure: Foundation<sup>1</sup>| |[Coursera](https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=gcp-architecture)| |Google Cloud Training|[Link](https://www.coursera.org/account/accomplishments/certificate/XUMN5FWGXUNH)|
 | | | | | | |
