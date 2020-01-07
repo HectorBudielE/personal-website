@@ -19,12 +19,13 @@ layout: page
 + [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
 + [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
 
-|Name|Online|Institution|Certificate|
-|------|----|-----|------|
-|Introduction to Data Science Specialization|Coursera|IBM|[(Link)](https://www.coursera.org/account/accomplishments/specialization/certificate/K8XM9QNNUXZJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)|
+|Name|Platform|Institution|Certificate|
+|----|:------:|:---------:|:---------:|
+| | | | |
+|Introduction to Data Science Specialization|[Coursera](https://www.coursera.org/specializations/introduction-data-science)|IBM|[Link](https://www.coursera.org/account/accomplishments/specialization/certificate/K8XM9QNNUXZJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)|
+|What is Data Science|Coursera|IBM|[Link](https://www.coursera.org/account/accomplishments/specialization/certificate/K8XM9QNNUXZJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)|
 
-<h3>Coursera Courses</h3>
-[Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
+
 
 ---
 
