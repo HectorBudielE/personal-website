@@ -8,7 +8,20 @@ layout: page
 
 <h2>Courses</h2>
 
+<h3>Coursera Specializations</h3>
 
+<h4>[Introduction to Data Science](https://www.coursera.org/specializations/introduction-data-science)</h4>[(Certificate)](https://www.coursera.org/account/accomplishments/specialization/certificate/K8XM9QNNUXZJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
+In this Specialization learners developed foundational Data Science skills to prepare them for a career or further learning that involves more advanced topics in Data Science. The specialization entailed understanding what is Data Science and the various kinds of activities that a Data Scientist’s perform. It familiarized learners with various open source tools, like Jupyter notebooks, used by Data Scientists. It taught them about methodology involved in tackling data science problems. The specialization also provided knowledge of relational database concepts and the use of SQL to query databases. Learners completed hands-on labs and projects to apply their newly acquired skills and knowledge. It includes the completion of the following courses:
+
++ [*What is Data Science*](https://www.coursera.org/learn/what-is-datascience)[(Certificate)](https://www.coursera.org/account/accomplishments/certificate/FGDLUSD779NC)
++ [Open Source tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
++ [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
++ [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
+
+
+
+<h3>Coursera Courses</h3>
+[Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
 ---
 
 <h2>Skills</h2>
