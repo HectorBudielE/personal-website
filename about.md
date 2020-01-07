@@ -35,6 +35,7 @@ layout: page
 | | | | |
 
 <sup>1</sup> Part of the Introduction to Data Science Specialization.
+<sup>2</sup> Part of the Architecting with Google Compute Engine Specialization.
 
 ---
 
