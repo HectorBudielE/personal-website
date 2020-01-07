@@ -23,7 +23,9 @@ layout: page
 |----|:------:|:---------:|:---------:|
 | | | | |
 |Introduction to Data Science Specialization|[Coursera](https://www.coursera.org/specializations/introduction-data-science)|IBM|[Link](https://www.coursera.org/account/accomplishments/specialization/certificate/K8XM9QNNUXZJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)|
-|What is Data Science|Coursera|IBM|[Link](https://www.coursera.org/account/accomplishments/specialization/certificate/K8XM9QNNUXZJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)|
+| | | | |
+|What is Data Science|[Coursera](https://www.coursera.org/learn/what-is-datascience)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/FGDLUSD779NC)|
+| | | | |
 
 
 
