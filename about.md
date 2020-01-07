@@ -15,11 +15,13 @@ layout: page
 | | | | |
 |What is Data Science<sup>1</sup>|[Coursera](https://www.coursera.org/learn/what-is-datascience)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/FGDLUSD779NC)|
 | | | | |
-|Open Source tools for Data Science|[Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/UEP9DW6WD2MH)|
+|Open Source tools for Data Science<sup>1</sup>|[Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/UEP9DW6WD2MH)|
 | | | | |
-|Data Science Methodology|[Coursera](https://www.coursera.org/learn/data-science-methodology)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/M35Q4V7XYAFB)|
+|Data Science Methodology<sup>1</sup>|[Coursera](https://www.coursera.org/learn/data-science-methodology)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/M35Q4V7XYAFB)|
 | | | | |
-|Databases and SQL for Data Science|[Coursera](https://www.coursera.org/learn/sql-data-science)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/TAHWJVB9V4SR)|
+|Databases and SQL for Data Science<sup>1</sup>|[Coursera](https://www.coursera.org/learn/sql-data-science)|IBM|[Link](https://www.coursera.org/account/accomplishments/certificate/TAHWJVB9V4SR)|
+| | | | |
+
 <sup>1</sup>: Part of the Introduction to Data Science Specialization.
 
 ---
